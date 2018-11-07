@@ -1,0 +1,16 @@
+repo
+dub-index
+.dub
+docs.json
+__dummy.html
+docs/
+dub-index.so
+dub-index.dylib
+dub-index.dll
+dub-index.a
+dub-index.lib
+dub-index-test-*
+*.exe
+*.o
+*.obj
+*.lst
